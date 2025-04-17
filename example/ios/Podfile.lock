@@ -1,0 +1,29 @@
+PODS:
+  - apptrace_flutter_plugin (1.0.1):
+    - ApptraceSDK (~> 1.1.8)
+    - Flutter
+  - ApptraceSDK (1.1.8)
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - apptrace_flutter_plugin (from `.symlinks/plugins/apptrace_flutter_plugin/ios`)
+  - Flutter (from `Flutter`)
+
+SPEC REPOS:
+  https://cdn.cocoapods.org/:
+    - ApptraceSDK
+
+EXTERNAL SOURCES:
+  apptrace_flutter_plugin:
+    :path: ".symlinks/plugins/apptrace_flutter_plugin/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  apptrace_flutter_plugin: 337432861f8a5efffeafc9fd1424ca337ae64333
+  ApptraceSDK: cd6ab936e07e31e30dda1f3fa6aaf7e3916f4d2d
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+
+PODFILE CHECKSUM: 663715e941f9adb426e33bf9376914006f9ea95b
+
+COCOAPODS: 1.12.0
